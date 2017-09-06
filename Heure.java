@@ -16,7 +16,15 @@ public class Heure {
 		return minutes;
 	}
 
+	public void setHeures(int heures){
+		this.heures = heures ;
+	}
 
-/*ça va?*/
+	public void setMinutes(int minutes){
+		this.minutes = minutes ;
+	}
+
+
+/*ça va et toi?*/
 
 }
